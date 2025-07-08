@@ -231,7 +231,7 @@ http://<your-ec2-public-ip>:5080/training
 ## 🙌 Credits
 
 Made with ❤️ by Nitesh Kumar
-Special thanks to the open-source community and mentors.
+Special thanks to the open-source community and mentors @vikashishere.
 
 ---
 
