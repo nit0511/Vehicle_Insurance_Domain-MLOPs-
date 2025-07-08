@@ -1,8 +1,4 @@
-Here's a **professionally styled, recruiter-friendly `README.md`** that showcases your project impressively. It emphasizes the tools, technologies, workflows, and deployment pipelines, helping visitors or recruiters understand your expertise across MLOps, data pipelines, CI/CD, cloud integration, and web deployment.
 
----
-
-````markdown
 # 🚗 Vehicle Insurance Prediction ML Project
 
 This is a full-scale **Machine Learning Project** that simulates a real-world data science workflow for predicting vehicle insurance outcomes. The project demonstrates end-to-end MLOps capabilities including data ingestion, transformation, model training, evaluation, deployment, and CI/CD integration using **FastAPI**, **MongoDB**, **AWS**, **Docker**, and **GitHub Actions**.
