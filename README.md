@@ -40,7 +40,6 @@ pip list  # Confirm installation
 # setup.py and pyproject.toml used for managing local packages
 ````
 
-More details in `crashcourse.txt`.
 
 ---
 
@@ -243,15 +242,4 @@ Special thanks to the open-source community and mentors.
 
 ---
 
-```
 
----
-
-Let me know if you'd like:
-- A badge section (e.g., Python, Docker, AWS, etc.)
-- A `LICENSE` section
-- A summary GIF/image of the web app in action (if you have a screenshot)  
-- Auto-generated TOC (Table of Contents) with links
-
-I'll be happy to tailor this further based on your preferences or recruiter audience.
-```
